@@ -1,0 +1,1 @@
+const proxyquire = require('proxyquire')

@@ -1,0 +1,12 @@
+{
+  "name": "repro-proxyquire-mocha",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "test": "mocha"
+  },
+  "dependencies": {
+    "mocha": "^5.2.0",
+    "proxyquire": "^2.1.0"
+  }
+}
